@@ -1,5 +1,8 @@
 _repo: Much-Ado-About-Something_52101
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52101-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Lawrence, C. E. (Charles Edward)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46677'
     url: http://www.gutenberg.org/2009/agents/46677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52101#Much-Ado-About-Something
 gutenberg_issued: '2016-05-18'
 gutenberg_type: Text
 identifiers:
